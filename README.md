@@ -1,2 +1,2 @@
-# Simple-stack-implementation
-A header of linked list stack for made by hand
+# Simple-data structure-implementation
+A header of linked list data structure for made by hand
